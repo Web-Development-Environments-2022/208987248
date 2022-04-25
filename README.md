@@ -8,8 +8,7 @@ Here is what you can find on the website:
 * Answers about web1, web2, web3.
 * Contact Sara by Email - you can add emoji :) . When you hover the submit button the color changes.
 
-Dana Hohenstein
-
+Name: Dana Hohenstein
+User name: danahoh
 208987248
-
 https://web-development-environments-2022.github.io/208987248/
